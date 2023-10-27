@@ -21,8 +21,8 @@ Adapun folder project saya lampirkan pada repository yang ada luar repository in
   <img src="_image/project.png" width="500">
 </p>
 
-## Permohonan Maaf
-Mohon maaf dikarenakan sebelumnya saya sudah terlanjur submit dengan menggunakan tautan Github pada laman LSP BSI, jadi saya lampirkan pelengkap persyaratan melalui Repository ini.
+<!-- ## Permohonan Maaf
+Mohon maaf dikarenakan sebelumnya saya sudah terlanjur submit dengan menggunakan tautan Github pada laman LSP BSI, jadi saya lampirkan pelengkap persyaratan melalui Repository ini. -->
 
 ## Ucapan Terimakasih
 Terimakasih atas perhatian bapak/ibu, semoga dengan berkas yang saya lampirkan melalui akun Github saya, saya bisa mendapatkan status <strong>kompeten</strong>.
